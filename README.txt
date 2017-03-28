@@ -1,0 +1,2 @@
+Ce projet montre la séparation des différentes parties d'une page web php à savoir l'entete, le menu et le pied de page. 
+Nous utilisons ces différents parties dans une autre page en appelant la méthode include. 
