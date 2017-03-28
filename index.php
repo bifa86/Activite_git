@@ -50,7 +50,8 @@
 
 
 
-<?php include("pied_de_page.php"); ?>
+<?php include("pied_de_page.php");
+echo date('l jS F Y h:i:s A');?>
 
 
 
